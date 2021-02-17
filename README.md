@@ -3,4 +3,6 @@ This repo is created to explain building procedure for the  Super Mega Bots (SMB
 
 
 <img align="center" width="750" height="350" src="https://github.com/turcantuna/SMB_Assembly-Manual/blob/master/Images/SMB.png">
+
+
 <img align="center" width="550" height="450" src="https://github.com/turcantuna/SMB_Assembly-Manual/blob/master/Images/SMB2.0.JPG">
